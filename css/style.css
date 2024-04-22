@@ -120,7 +120,11 @@ nav {
 }
 
 .nav-logo {
-    width: 70px;
+    height: 100px;
+}
+
+.nav-logo img {
+    height: 100%;
 }
 
 .nav-list {
