@@ -202,7 +202,7 @@ nav {
     height: 90vh;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/re-bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/about-img.jpeg');
     backdrop-filter: blur(20.5px);
     background-size: cover;
     background-position: top;
@@ -407,7 +407,7 @@ nav {
     height: 50vh;
     display: flex;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/about-bgs.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/abou-bg.jpeg');
     backdrop-filter: blur(20.5px);
     background-size: cover;
     background-position: top;
